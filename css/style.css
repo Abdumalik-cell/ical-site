@@ -480,7 +480,7 @@ body {
 }
 
 .footer__item:hover {
-	transform: translateY(-10px);
+	transform: translateY(-7px) scale(1.1);
 }
 
 .service-top {
